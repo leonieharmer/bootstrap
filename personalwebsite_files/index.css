@@ -4,18 +4,6 @@ body {
 a {
 	color:#87BBA2;
 }
-
-h2 {
-	color: #87BBA2;
-}
-
-h4 {
-	color: #79AEA3;
-}
-
-#black {
-	color:#4D4730;
-}
 .navbar-default {
 	background-color:#87BBA2;
 	border-color:#87BBA2;
@@ -26,4 +14,6 @@ h4 {
 }
 .navbar-default .navbar-nav>li>a {
     color: #000000; 
+}
+
 }
