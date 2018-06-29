@@ -1,0 +1,19 @@
+body {
+	font-family:'Encode Sans Condensed', sans-serif;
+}
+a {
+	color:#87BBA2;
+}
+.navbar-default {
+	background-color:#87BBA2;
+	border-color:#87BBA2;
+}
+
+.navbar-default .navbar-brand {
+	color:#000000;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #000000; 
+}
+
+}
