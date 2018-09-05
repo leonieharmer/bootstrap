@@ -1,12 +1,12 @@
 body {
-	font-family:'Encode Sans Condensed', sans-serif;
+	font-family:'Roboto', sans-serif;
 }
 a {
-	color:#87BBA2;
+	color:#6D7275;
 }
 
 h2 {
-	color: #87BBA2;
+	color: #9DC4B5;
 }
 
 h4 {
@@ -17,8 +17,8 @@ h4 {
 	color:#4D4730;
 }
 .navbar-default {
-	background-color:#87BBA2;
-	border-color:#87BBA2;
+	background-color:#9DC4B5;
+	border-color:#9DC4B5;
 }
 
 .navbar-default .navbar-brand {
