@@ -1,8 +1,13 @@
 body {
 	font-family:'Roboto', sans-serif;
+	background-color: #ffffff;
+}
+
+section {
+	background-color:#01161E;
 }
 a {
-	color:#01161E;
+	color:#000000;
 }
 
 h2 {
@@ -10,18 +15,29 @@ h2 {
 }
 
 h4 {
-	color: #01161E;
+	color: #6D616A;
 }
 
 h3 {
-	color:#7C8483;
+	color:#9FB1BC;
 }
 
 h1 {
 	color:#01161E;
 }
+
+p {
+	color:000000;
+}
+
+#rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg) }
 #black {
-	color:#01161E;
+	color:#000000;
 }
 .navbar-default {
 	background-color:#9FB1BC;
